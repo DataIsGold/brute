@@ -1,0 +1,9 @@
+C:\brute\Source\Brute\bin\x86\Debug\Brute.exe.config
+C:\brute\Source\Brute\bin\x86\Debug\Brute.exe
+C:\brute\Source\Brute\bin\x86\Debug\Brute.pdb
+C:\brute\Source\Brute\obj\x86\Debug\Brute.Form1.resources
+C:\brute\Source\Brute\obj\x86\Debug\Brute.Properties.Resources.resources
+C:\brute\Source\Brute\obj\x86\Debug\Brute.exe
+C:\brute\Source\Brute\obj\x86\Debug\Brute.pdb
+C:\brute\Source\Brute\obj\x86\Debug\Brute.csproj.GenerateResource.Cache
+C:\brute\Source\Brute\obj\x86\Debug\Brute.csprojResolveAssemblyReference.cache

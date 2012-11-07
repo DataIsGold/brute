@@ -1,0 +1,10 @@
+C:\brute\Source\Brute\bin\x86\Release\Brute.exe.config
+C:\brute\Source\Brute\bin\x86\Release\Brute.exe
+C:\brute\Source\Brute\bin\x86\Release\Brute.pdb
+C:\brute\Source\Brute\obj\x86\Release\ResolveAssemblyReference.cache
+C:\brute\Source\Brute\obj\x86\Release\Brute.Form1.resources
+C:\brute\Source\Brute\obj\x86\Release\Brute.Properties.Resources.resources
+C:\brute\Source\Brute\obj\x86\Release\GenerateResource.read.1.tlog
+C:\brute\Source\Brute\obj\x86\Release\GenerateResource.write.1.tlog
+C:\brute\Source\Brute\obj\x86\Release\Brute.exe
+C:\brute\Source\Brute\obj\x86\Release\Brute.pdb

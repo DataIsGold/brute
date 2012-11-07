@@ -1,0 +1,8 @@
+C:\brute\Source\Brute\bin\Release\Brute.exe
+C:\brute\Source\Brute\bin\Release\Brute.pdb
+C:\brute\Source\Brute\obj\Release\Brute.Form1.resources
+C:\brute\Source\Brute\obj\Release\Brute.Properties.Resources.resources
+C:\brute\Source\Brute\obj\Release\Brute.exe
+C:\brute\Source\Brute\obj\Release\Brute.pdb
+C:\brute\Source\Brute\bin\Release\Brute.exe.config
+C:\brute\Source\Brute\obj\Release\Brute.csproj.GenerateResource.Cache

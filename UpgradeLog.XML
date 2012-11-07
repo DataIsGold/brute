@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Brute">
+</Property><Property Name="Solution File" Value="C:\brute\Source\Brute.sln">
+</Property><Property Name="User Options File" Value="C:\brute\Source\Brute.suo">
+</Property><Property Name="Date" Value="Saturday, October 20, 2012">
+</Property><Property Name="Time" Value="2:06 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Brute.sln" Description="File successfully backed up as C:\brute\Source\Backup\Brute.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Brute.suo" Description="File successfully backed up as C:\brute\Source\Backup\Brute.suo">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Brute.csproj" Description="Project file successfully backed up as C:\brute\Source\Backup\Brute\Brute.csproj">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\CpuUsage.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\CpuUsage.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\CpuUsage9x.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\CpuUsage9x.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\CpuUsageNt.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\CpuUsageNt.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Form1.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Form1.Designer.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Hash.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Hash.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Program.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Program.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Properties\Settings.settings" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\tools.ico" Description="File successfully backed up as C:\brute\Source\Backup\Brute\tools.ico">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Form1.resx" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Properties\Resources.resx" Description="File successfully backed up as C:\brute\Source\Backup\Brute\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Brute.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Brute" Source="Brute\Brute.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Brute.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Brute.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Brute" Source="Brute\Brute.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
